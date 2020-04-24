@@ -1,10 +1,9 @@
 apt install update
 apt install upgrade -y
-apt install guake
-apt install git
-apt install snap
-apt install htop
+apt install guake -y
+apt install git -y
+apt install snap -y
+apt install htop -y
 apt install thunderbird
 snap install spotify
-apt install fish
-chsh -s /bin/usr/fish
+apt install fish -y
